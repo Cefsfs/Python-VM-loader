@@ -6,6 +6,8 @@ A Python script that minifies and encrypts Python source code into a custom VM l
 
 ```bash
 git clone https://github.com/Cefsfs/Python-VM-loader.git
+
 cd Python-VM-loader
+
 python main.py
 ```

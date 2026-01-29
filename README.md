@@ -16,3 +16,10 @@ cd Python-VM-loader
 
 python main.py
 ```
+# Requirements
+
+```bash
+Python (tested with 3.9)
+
+python_minifier (pip install python_minifier)
+```

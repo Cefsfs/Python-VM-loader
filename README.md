@@ -19,7 +19,7 @@ python main.py
 # Requirements
 
 ```bash
-Python (tested with 3.9)
+Python (tested with 3.9, https://www.python.org/downloads/release/python-390/)
 
 python_minifier (pip install python_minifier)
 ```
